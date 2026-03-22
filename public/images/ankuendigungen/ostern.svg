@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#fef9ec"/>
+  <!-- Grass -->
+  <ellipse cx="200" cy="340" rx="180" ry="40" fill="#a8d5a2"/>
+  <!-- Egg 1 (pink) -->
+  <ellipse cx="140" cy="260" rx="35" ry="48" fill="#f9a8c9"/>
+  <ellipse cx="130" cy="248" rx="6" ry="6" fill="#f472b6" opacity="0.6"/>
+  <ellipse cx="152" cy="265" rx="5" ry="5" fill="#f472b6" opacity="0.6"/>
+  <ellipse cx="138" cy="278" rx="4" ry="4" fill="#f472b6" opacity="0.6"/>
+  <!-- Egg 2 (blue) -->
+  <ellipse cx="260" cy="255" rx="38" ry="50" fill="#93c5fd"/>
+  <line x1="235" y1="240" x2="285" y2="240" stroke="#60a5fa" stroke-width="3" opacity="0.5"/>
+  <line x1="232" y1="255" x2="288" y2="255" stroke="#60a5fa" stroke-width="3" opacity="0.5"/>
+  <line x1="235" y1="270" x2="285" y2="270" stroke="#60a5fa" stroke-width="3" opacity="0.5"/>
+  <!-- Egg 3 (yellow, center) -->
+  <ellipse cx="200" cy="240" rx="40" ry="55" fill="#fde68a"/>
+  <path d="M175 225 Q188 218 200 225 Q212 218 225 225" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
+  <path d="M172 245 Q188 238 200 245 Q212 238 228 245" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
+  <path d="M175 265 Q188 258 200 265 Q212 258 225 265" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
+  <!-- Bunny ears -->
+  <ellipse cx="185" cy="130" rx="18" ry="50" fill="#e8ddd3" transform="rotate(-10 185 130)"/>
+  <ellipse cx="215" cy="130" rx="18" ry="50" fill="#e8ddd3" transform="rotate(10 215 130)"/>
+  <ellipse cx="185" cy="125" rx="10" ry="38" fill="#f9c4b8" opacity="0.5" transform="rotate(-10 185 125)"/>
+  <ellipse cx="215" cy="125" rx="10" ry="38" fill="#f9c4b8" opacity="0.5" transform="rotate(10 215 125)"/>
+  <!-- Bunny head -->
+  <circle cx="200" cy="185" r="35" fill="#e8ddd3"/>
+  <circle cx="188" cy="178" r="4" fill="#6b5b4f"/>
+  <circle cx="212" cy="178" r="4" fill="#6b5b4f"/>
+  <ellipse cx="200" cy="190" rx="5" ry="3.5" fill="#f9a8c9"/>
+  <text x="200" y="385" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#92754a">Frohe Ostern!</text>
+</svg>

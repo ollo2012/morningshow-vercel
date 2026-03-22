@@ -1,0 +1,23 @@
+[
+  {
+    "titel": "Oster-Countdown läuft! 🐰",
+    "inhalt": "Hey Team, nächste Woche ist schon Ostern! Schnappt euch eure gute Laune und weist unsere Kund:innen aktiv darauf hin, damit niemand ohne Feiertags-Leckereien dasteht.",
+    "datum": "2026-04-08",
+    "wichtig": false,
+    "icon": "CalendarDays"
+  },
+  {
+    "titel": "Brezel-Ausfall heute 🥨",
+    "inhalt": "Wichtige Info für die Backstage: Die Brezeln sind leider etwas zu heiß geworden (verbrannt) und heute nicht lieferbar. Bitte entschuldigt das charmant bei der Kundschaft!",
+    "datum": "2026-04-08",
+    "wichtig": true,
+    "icon": "TriangleAlert"
+  },
+  {
+    "titel": "Gute Besserung, Laura! 💐",
+    "inhalt": "Unsere Kollegin Laura Weber hat es leider erwischt. Sie fällt bis Ende der Woche aus. Lasst uns im Team zusammenrücken und ihr eine schnelle Genesung wünschen!",
+    "datum": "2026-04-08",
+    "wichtig": true,
+    "icon": "Heart"
+  }
+]
