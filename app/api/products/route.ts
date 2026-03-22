@@ -5,13 +5,13 @@ import { Mistral } from "@mistralai/mistralai";
 import fs from "fs";
 import path from "path";
 
-const filePath = path.join(process.cwd(), "data/products.json");
+const filePath = path.join(process.cwd(), "tmp/products.json");
 const apiKey = process.env.MISTRAL_API_KEY;
 const client = new Mistral({ apiKey });
 
 // Helper to ensure directory and file exist
 const ensureFile = () => {
-  const dir = path.dirname(filePath);
+  const dir = path.join(process.cwd(), "tmp");
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
   }
@@ -49,8 +49,8 @@ export async function POST(req: Request) {
     let new_description = text; // Initialize with original text in case AI fails
     
     // Fetch context from current selected profile
-    const currentProfilePath = path.join(process.cwd(), "data/settings_current.json");
-    const profilesPath = path.join(process.cwd(), "data/settings_profiles.json");
+    const currentProfilePath = path.join(process.cwd(), "tmp/settings_current.json");
+    const profilesPath = path.join(process.cwd(), "tmp/settings_profiles.json");
     let interneKommunikation = "";
     let unternehmensprofil = "";
     try {

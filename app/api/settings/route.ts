@@ -2,11 +2,11 @@ import { NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 
-const filePath = path.join(process.cwd(), "data/settings_profiles.json");
-const currentProfilePath = path.join(process.cwd(), "data/settings_current.json");
+const filePath = path.join(process.cwd(), "tmp/settings_profiles.json");
+const currentProfilePath = path.join(process.cwd(), "tmp/settings_current.json");
 
 const ensureFiles = () => {
-  const dir = path.dirname(filePath);
+  const dir = path.join(process.cwd(), "tmp");
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
   }
