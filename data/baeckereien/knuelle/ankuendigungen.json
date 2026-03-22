@@ -1,0 +1,22 @@
+[
+  {
+    "titel": "Nächste Woche ist Ostern",
+    "inhalt": "Liebes Team, denkt bitte daran, unsere Kunden aktiv auf das Osterfest hinzuweisen. Lasst uns gemeinsam für volle Körbchen sorgen!",
+    "datum": "2026-04-08",
+    "wichtig": false,
+    "bild": "/images/ankuendigungen/easter.jpg"
+  },
+  {
+    "titel": "Brezeln nicht lieferbar",
+    "inhalt": "Wichtige Info für den Verkauf: Die Brezeln sind heute leider verbrannt. Bitte entschuldigt das charmant bei der Kundschaft!",
+    "datum": "2026-03-21",
+    "wichtig": true,
+    "icon": "TriangleAlert"
+  },
+  {
+    "titel": "Gute Besserung, Laura!",
+    "inhalt": "Unsere Kollegin Laura Weber ist leider bis Ende der Woche krank. Wir wünschen gute Besserung und rücken im Team zusammen!",
+    "datum": "2026-04-08",
+    "wichtig": true
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "titel": "Fresh Vibes in der Theke – Unsere Highlights",
+  "produkte": [
+    {
+      "name": "Rübli Kuchen",
+      "beschreibung": "Unser neuer Star am Backhimmel! Saftiger Karottenkuchen mit fluffigem Frosting – der perfekte Begleiter für den entspannten Sonntagskaffee oder das Picknick im Park.",
+      "preis": "4,90 € / Stück",
+      "status": "neu",
+      "allergene": ["gluten", "ei", "milch", "nüsse"],
+      "naehrwerte": {
+        "portionsgroesse": "100 g",
+        "kalorien": "342 kcal",
+        "kohlenhydrate": "48 g",
+        "davonZucker": "28 g",
+        "fett": "14 g",
+        "davonGesaettigt": "5 g",
+        "eiweiss": "5 g",
+        "salz": "0,4 g"
+      }
+    },
+    {
+      "name": "Lemon Tarte",
+      "beschreibung": "Kurze Pause für unsere Lemon Tarte. Sie verabschiedet sich in den Winterschlaf, ist aber pünktlich zum Sommer-Release wieder für euch am Start!",
+      "status": "eingestellt"
+    },
+    {
+      "name": "Buttercroissant",
+      "beschreibung": "Kleines Upgrade in der Performance: Wir backen unsere Croissants jetzt bei 165°C für den extra knusprigen Gold-Vibe. Handwerk, das man schmeckt!",
+      "status": "überarbeitet"
+    }
+  ]
+}

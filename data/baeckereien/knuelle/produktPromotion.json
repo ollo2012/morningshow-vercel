@@ -1,0 +1,32 @@
+{
+  "titel": "Unsere Highlights diese Woche",
+  "produkte": [
+    {
+      "name": "Rübli Kuchen",
+      "beschreibung": "Probier mal unseren leckeren Karottenkuchen mit feinem Frosting. Handwerk, das du schmeckst! Passt perfekt zum Sonntagskaffee oder Picknick.",
+      "preis": "4,90 € / Stück",
+      "status": "neu",
+      "allergene": ["gluten", "ei", "milch", "nüsse"],
+      "naehrwerte": {
+        "portionsgroesse": "100 g",
+        "kalorien": "342 kcal",
+        "kohlenhydrate": "48 g",
+        "davonZucker": "28 g",
+        "fett": "14 g",
+        "davonGesaettigt": "5 g",
+        "eiweiss": "5 g",
+        "salz": "0,4 g"
+      }
+    },
+    {
+      "name": "Lemon Tarte",
+      "beschreibung": "Kurze Info für euch: Die Lemon Tarte macht Pause und kommt im Sommer wieder in die Theke.",
+      "status": "eingestellt"
+    },
+    {
+      "name": "Croissant",
+      "beschreibung": "Unsere Croissants backen wir jetzt bei 165°C – für die perfekte Goldkruste, die unsere Kunden so lieben.",
+      "status": "überarbeitet"
+    }
+  ]
+}
