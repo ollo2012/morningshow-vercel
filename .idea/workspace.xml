@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18e73f8f-3569-404e-8fdb-9d5935600940" name="Changes" comment="removed padding and box logic">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/[baeckerei]/ankuendigung/[index]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/[baeckerei]/ankuendigung/[index]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/slides/ankuendigungen-slide.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/slides/ankuendigungen-slide.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/slides/uebersicht-slide.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/slides/uebersicht-slide.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/data/ankuendigungen.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/ankuendigungen.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/data/baeckereien/jazzback.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/baeckereien/jazzback.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/data/baeckereien/knuelle.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/baeckereien/knuelle.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/data/produkt-promotion.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/produkt-promotion.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3BFj2VoSnI15f8iTNUdzQC5T22Z" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/paulskleo/Documents/Private/morningshow&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/paulskleo/Documents/Private/morningshow/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18e73f8f-3569-404e-8fdb-9d5935600940" name="Changes" comment="" />
+      <created>1774091506765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774091506765</updated>
+      <workItem from="1774091508024" duration="5462000" />
+      <workItem from="1774101150574" duration="2889000" />
+    </task>
+    <task id="LOCAL-00001" summary="add images">
+      <option name="closed" value="true" />
+      <created>1774101303070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774101303070</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add bäko image">
+      <option name="closed" value="true" />
+      <created>1774101314068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774101314068</updated>
+    </task>
+    <task id="LOCAL-00003" summary="rename baeko logo">
+      <option name="closed" value="true" />
+      <created>1774101359196</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774101359196</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add progress bar">
+      <option name="closed" value="true" />
+      <created>1774101727602</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774101727602</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new layout for slide and logos">
+      <option name="closed" value="true" />
+      <created>1774102324041</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774102324041</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add caffeine layout">
+      <option name="closed" value="true" />
+      <created>1774102560848</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774102560848</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add baeko logo">
+      <option name="closed" value="true" />
+      <created>1774103645905</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774103645905</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add product images">
+      <option name="closed" value="true" />
+      <created>1774105071811</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774105071811</updated>
+    </task>
+    <task id="LOCAL-00009" summary="adding allgernes to the product">
+      <option name="closed" value="true" />
+      <created>1774106030879</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1774106030879</updated>
+    </task>
+    <task id="LOCAL-00010" summary="remove custom coloring">
+      <option name="closed" value="true" />
+      <created>1774106691045</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774106691045</updated>
+    </task>
+    <task id="LOCAL-00011" summary="remove motivation slide">
+      <option name="closed" value="true" />
+      <created>1774107890807</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1774107890807</updated>
+    </task>
+    <task id="LOCAL-00012" summary="more subtle nav bar buttons">
+      <option name="closed" value="true" />
+      <created>1774109147000</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1774109147000</updated>
+    </task>
+    <task id="LOCAL-00013" summary="removed padding and box logic">
+      <option name="closed" value="true" />
+      <created>1774109870231</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1774109870231</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add images" />
+    <MESSAGE value="add bäko image" />
+    <MESSAGE value="rename baeko logo" />
+    <MESSAGE value="add progress bar" />
+    <MESSAGE value="new layout for slide and logos" />
+    <MESSAGE value="add caffeine layout" />
+    <MESSAGE value="add baeko logo" />
+    <MESSAGE value="add product images" />
+    <MESSAGE value="adding allgernes to the product" />
+    <MESSAGE value="remove custom coloring" />
+    <MESSAGE value="remove motivation slide" />
+    <MESSAGE value="more subtle nav bar buttons" />
+    <MESSAGE value="removed padding and box logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed padding and box logic" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
